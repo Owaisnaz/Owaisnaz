@@ -1,5 +1,5 @@
 ### Hi there 👋, i'm Owais Nazir
-This is Owais Nazir from jammu and kashmir,and i do web developing. i realy enjoy learning new languages and frameworks like php & React. You can check out my Instagram at owaisnazir._
+This is Owais Nazir from jammu and kashmir,and i do web developing. i realy enjoy learning new languages and frameworks like php & React. You can check out my  at owaisnazisocial networking down bellow.
 #### Skills
  JS / HTML / CSS
  
